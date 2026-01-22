@@ -25,7 +25,7 @@ from openai import OpenAI
 
 # ============== 配置區 ==============
 # 請在此處填入你的 OpenAI API Key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 # 模型配置
 LLM_MODEL = "gpt-5.2-2025-12-11"  # 可以改為 gpt-4o-mini 等
